@@ -1,6 +1,6 @@
 Integrantes:
 
-Cristofer Andre Vela Morau
+Cristofer Andre Vela Morau 
 Ariel Leonard Rubio Chamorro
 
 Dia 1.
