@@ -1,6 +1,6 @@
 Integrantes:
 
-Cristofer Andre Vela Morau
+Cristofer Andre Vela Morau Y 
 Ariel Leonard Rubio Chamorro
 
 Diagramas (DFD, CASO DE USO, DER, GANTT, CPM):
